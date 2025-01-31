@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Tony👋, a M.Eng student at MIT, experienced in machine learning and web development.
+
+Currently, I am a visiting graduate student at the Broad conducting research on algorithms for computational genomics. I have done software engineering internships at Microsoft and Cadence Design Systems.
+
+Find out more about me and my projects by visiting my [web portfolio](https://tcui37.github.io/)
 
 <!--
 **tcuii37/tcuii37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
